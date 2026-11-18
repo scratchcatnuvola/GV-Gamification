@@ -85,7 +85,7 @@ foreach ($gam->unlocked($userId) as $a) {
 
 ## 📄 License
 
-MIT — free for any use. If you build something cool with it, a mention is appreciated but not required.
+The Vault License — free for any use. If you build something cool with it, a mention is appreciated but not required.
 
 ---
 
